@@ -14,13 +14,11 @@ The instructions for this mini project are divided into the following subsection
 1. Extract and transform the `crowdfunding.xlsx` Excel data to create a category DataFrame that has the following columns:
   - A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
   - A "category" column that contains only the category titles
-  - The following image shows this category DataFrame:
 
 2. Export the category DataFrame as `category.csv` and save it to your GitHub repository.
 3. Extract and transform the `crowdfunding.xlsx` Excel data to create a subcategory DataFrame that has the following columns:
   - A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
   - A "subcategory" column that contains only the subcategory titles
-  - The following image shows this subcategory DataFrame:
 
 4. Export the subcategory DataFrame as `subcategory.csv` and save it to your GitHub repository.
 
@@ -41,7 +39,6 @@ The instructions for this mini project are divided into the following subsection
   - The "deadline" column, renamed to "end_date" and with the UTC times converted to the `datetime` format
   - The "category_id" column, with unique identification numbers matching those in the "category_id" column of the category DataFrame
   - The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
-  - The following image shows this campaign DataFrame:
 
 2. Export the campaign DataFrame as `campaign.csv` and save it to your GitHub repository.
 
@@ -66,7 +63,6 @@ The instructions for this mini project are divided into the following subsection
   - Convert the "contact_id" column to the integer type.
   - Split each "name" column value into a first and a last name, and place each in a new column.
   - Clean and then export the DataFrame as `contacts.csv` and save it to your GitHub repository.
-4. Check that your final DataFrame resembles the one in the following image:
 
 ## Create the Crowdfunding Database
 
