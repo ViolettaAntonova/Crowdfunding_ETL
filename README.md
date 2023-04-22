@@ -7,12 +7,12 @@ Project 2
   - Crowdfunding Database schema - [crowdfunding_db_schema.sql](crowdfunding_db_schema.sql)
   
 - Resources folder:
-  - Campaign DataFrame - [campaign.csv](campaign.csv)
-  - Category DataFrame - [category.csv](category.csv)
-  - Contacts DataFrame  - [contacts.csv](contacts.csv)
-  - Subcategory DataFrame - [subcategory.csv](subcategory.csv)
-  - Contacts Excel File - [contacts.xlsx](contacts.xlsx)
-  - Crowdfunding Excel File- [crowdfunding.xlsx](crowdfunding.xlsx)
+  - Campaign DataFrame - [campaign.csv](Resources/campaign.csv)
+  - Category DataFrame - [category.csv](Resources/category.csv)
+  - Contacts DataFrame  - [contacts.csv](Resources/contacts.csv)
+  - Subcategory DataFrame - [subcategory.csv](Resources/subcategory.csv)
+  - Contacts Excel File - [contacts.xlsx](Resources/contacts.xlsx)
+  - Crowdfunding Excel File- [crowdfunding.xlsx](Resources/crowdfunding.xlsx)
   
 - DB folder:
   - Campaign db connection check - [campaign.png](campaign.png)
