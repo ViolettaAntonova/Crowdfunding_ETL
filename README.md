@@ -1,6 +1,28 @@
 # Crowdfunding_ETL
 Project 2
 
+# Files
+- Main folder:
+  - Code for creating all DataFrames - [ETL_Mini_Project_ETL_Mini_Project_VAntonova_HFuller_AGhebrezghi_IBulut_final.ipynb](ETL_Mini_Project_ETL_Mini_Project_VAntonova_HFuller_AGhebrezghi_IBulut_final.ipynb)
+  - Crowdfunding Database schema - [crowdfunding_db_schema.sql](crowdfunding_db_schema.sql)
+  
+- Resources folder:
+  - Campaign DataFrame - [campaign.csv](campaign.csv)
+  - Category DataFrame - [category.csv](category.csv)
+  - Contacts DataFrame  - [contacts.csv](contacts.csv)
+  - Subcategory DataFrame - [subcategory.csv](subcategory.csv)
+  - Contacts Excel File - [contacts.xlsx](contacts.xlsx)
+  - Crowdfunding Excel File- [crowdfunding.xlsx](crowdfunding.xlsx)
+  
+- DB folder:
+  - Campaign db connection check - [campaign.png](campaign.png)
+  - Category db connection check - [category.png](category.png)
+  - Contact db connection check - [contact.png](contact.png)
+  - Subcategory db connection check - [subcategory.png](subcategory.png)
+  - Crowdfunding db QuickDBD text file - [crowdfunding_db](crowdfunding_db)
+  - Crowdfunding db connection to Jupiter notebook - [crowdfunding_db_connection.ipynb](crowdfunding_db_connection.ipynb)
+  - Crowdfunding Database schema - [crowdfunding_db_schema_screenshoot.png](crowdfunding_db_schema_screenshoot.png)
+  
 # Instructions
 
 The instructions for this mini project are divided into the following subsections:
