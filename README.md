@@ -1,6 +1,13 @@
 # Crowdfunding_ETL
 Project 2
 
+# Contributors
+
+1. Hayley Fuller
+2. Isil Bulut
+3. Alemseghed Ghebrezghi
+4. Violetta Antonova
+
 # Files
 - Main folder:
   - Code for creating all DataFrames - [ETL_Mini_Project_ETL_Mini_Project_VAntonova_HFuller_AGhebrezghi_IBulut_final.ipynb](ETL_Mini_Project_ETL_Mini_Project_VAntonova_HFuller_AGhebrezghi_IBulut_final.ipynb)
