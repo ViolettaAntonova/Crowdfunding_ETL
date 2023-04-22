@@ -19,7 +19,7 @@ Project 2
   - Category db connection check - [category.png](db/category.png)
   - Contact db connection check - [contact.png](db/contact.png)
   - Subcategory db connection check - [subcategory.png](db/subcategory.png)
-  - Crowdfunding db QuickDBD text file - [crowdfunding_db](db/crowdfunding_db)
+  - Crowdfunding db QuickDBD text file - [crowdfunding_db.rtf](db/crowdfunding_db.rtf)
   - Crowdfunding db connection to Jupiter notebook - [crowdfunding_db_connection.ipynb](db/crowdfunding_db_connection.ipynb)
   - Crowdfunding Database schema - [crowdfunding_db_schema_screenshoot.png](db/crowdfunding_db_schema_screenshoot.png)
   
